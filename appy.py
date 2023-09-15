@@ -3,14 +3,14 @@ import os
 
 # Define your buttons and their corresponding URLs
 buttons = [
-    {"label": "Canvas", "url": "https://example.com"},
-    {"label": "RU Email", "url": "https://example2.com"},
-    {"label": "", "url": "https://example3.com"},
-    {"label": "", "url": "https://example4.com"},
-    {"label": "Button 5", "url": "https://example5.com"},
-    {"label": "Button 6", "url": "https://example6.com"},
-    {"label": "Button 7", "url": "https://example7.com"},
-    {"label": "Button 8", "url": "https://example8.com"},
+    {"label": "English", "url": "https://rochesteru.instructure.com/courses/2426"},
+    {"label": "Vocation/Identity", "url": "https://rochesteru.instructure.com/courses/2652"},
+    {"label": "Computing", "url": "https://rochesteru.instructure.com/courses/2582"},
+    {"label": "Programming", "url": "https://rochesteru.instructure.com/courses/2590"},
+    {"label": "Workshop", "url": "https://rochesteru.instructure.com/courses/2393"},
+    {"label": "Information Systems", "url": "https://rochesteru.instructure.com/courses/2586"},
+    {"label": "Dashboard", "url": "https://rochesteru.instructure.com/"},
+    {"label": "RU Email", "url": "https://mail.google.com/mail/u/0/#inbox"},
     {"label": "Button 9", "url": "https://example9.com"},
     {"label": "Button 10", "url": "https://example10.com"},
 ]
